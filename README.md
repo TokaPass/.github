@@ -1,1 +1,2 @@
-# .github
+# Toka
+Password manager for everyone
